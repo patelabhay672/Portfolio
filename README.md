@@ -55,8 +55,6 @@ portfolio/
 - **LinkedIn**: [Abhay Patel](https://www.linkedin.com/in/abhay-patel-2bb2b2237)
 - **GitHub**: [patelabhay672](https://github.com/patelabhay672)
 
-## 📜 License
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
