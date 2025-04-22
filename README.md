@@ -33,7 +33,7 @@ git clone https://github.com/patelabhay672/portfolio-website.git
 2. Open `index.html` in your browser
 
 ## 🌟 Live Demo
-[View Live Portfolio](https://patelabhay672.github.io) <!-- Add your GitHub Pages link if deployed -->
+[View Live Portfolio](https://abhay672.in/) <!-- Add your GitHub Pages link if deployed -->
 
 ## 📂 Project Structure
 ```
